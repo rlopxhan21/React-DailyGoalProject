@@ -1,5 +1,5 @@
 # Daily Goal Project
-This is the simple expense tracker in React. Here's the live link of this project: https://expense-tracer.vercel.app/
+This is the simple expense tracker in React. Here's the live link of this project: https://react-daily-goal-project.vercel.app/
 
 ## How to install/ run:
 In terminal bash:
