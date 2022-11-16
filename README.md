@@ -5,7 +5,7 @@ This is the simple expense tracker in React. Here's the live link of this projec
 In terminal bash:
 
 ```
-git clone https://github.com/rlopxhan21/Expense-Tracer.git
+git clone https://github.com/rlopxhan21/React-DailyGoalProject.git
 ```
 
 
